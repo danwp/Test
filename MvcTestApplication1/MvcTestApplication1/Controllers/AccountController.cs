@@ -18,6 +18,7 @@ namespace MvcTestApplication1.Controllers
 
         public ActionResult Index()
         {
+            var x = "test";
             return View();
         }
 
